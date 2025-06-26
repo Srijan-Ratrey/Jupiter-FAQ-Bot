@@ -11,7 +11,6 @@ This project scrapes Jupiter's FAQ content and builds an intelligent conversatio
 ### Core Functionality
 - **🕷️ Web Scraping**: Comprehensive data collection from Jupiter's website and community forums
 - **🧠 Semantic Search**: Advanced embedding-based search using SentenceTransformers + FAISS
-- **🤖 Multi-LLM Support**: Integration with OpenAI, OpenRouter/Mistral, and local models
 - **💬 Natural Responses**: Conversational, formal, and brief response styles
 - **📊 Smart Analytics**: Confidence scoring and source attribution
 

@@ -246,12 +246,6 @@ Jupiter/
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📞 Support
-
-For questions or issues:
-- 📧 Email: [Your email]
-- 🐛 Issues: [GitHub Issues]
-- 📖 Docs: This README + inline code documentation
 
 ## 🏆 Achievements
 
@@ -262,5 +256,3 @@ For questions or issues:
 - 🎯 **High Performance**: Fast semantic search with natural language responses
 
 ---
-
-**Built with ❤️ for Jupiter's AI Internship Project** 

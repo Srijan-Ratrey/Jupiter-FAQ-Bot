@@ -39,6 +39,29 @@ source jupiter_faq_env/bin/activate  # On Windows: jupiter_faq_env\Scripts\activ
 pip install -r requirements.txt
 ```
 
+### 🔐 API Key Setup (Choose One)
+
+#### Option 1: OpenAI (Recommended)
+```bash
+# Setup OpenAI API key securely
+python scripts/setup_openai.py
+```
+
+#### Option 2: OpenRouter/DeepSeek (Free Tier)
+```bash
+# Setup OpenRouter API key
+python scripts/setup_openrouter.py
+```
+
+#### Option 3: Manual Setup
+```bash
+# Copy example file and edit
+cp .env.example .env
+# Edit .env with your API keys (never commit this file!)
+```
+
+⚠️ **Security Note**: Your `.env` file containing API keys is automatically excluded from git commits.
+
 ### OpenRouter/Mistral Setup (Recommended)
 ```bash
 # Get free API key from https://openrouter.ai/
